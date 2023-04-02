@@ -4,7 +4,6 @@
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- My motivation is to provide for my wife/child.
 - I built this project to have hands on experience using HTML, CSS, and Javascript.
 - When I am stuck on something I can look back on this project for some basic notes.
 - I learned how to better understand the dynamics behind for loops and also a bunch of information on how to use the terminal and/or github to keep stuff organized.
